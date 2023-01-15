@@ -34,4 +34,4 @@ Crie um fork deste projeto no seu github e desenvolva o código em **javascript 
 
 Ao finalizar a solução não esqueça de enviar um pull request!
 
-## S
+## Se divirta
