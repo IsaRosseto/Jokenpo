@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/victorperin/jokenpo.git"
+    "url": "git+https://github.com/IsaRosseto/jokenpo.git"
   },
   "keywords": [
     "jokenpo"
   ],
-  "author": "Victor Perin",
+  "author": "Isabella Rosseto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/victorperin/jokenpo/issues"
+    "url": "https://github.com/IsaRosseto/jokenpo/issues"
   },
-  "homepage": "https://github.com/victorperin/jokenpo#readme",
+  "homepage": "https://github.com/IsaRosseto/jokenpo#readme",
   "dependencies": {
     "prompt-promise": "^1.0.3"
   },
