@@ -32,3 +32,4 @@ describe('Jogar Jokenpo', () => {
         jogarJokenpo([1,'castor']).catch(verificarMaoImpossivel);
     });
 });
+
