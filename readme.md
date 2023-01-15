@@ -1,4 +1,4 @@
-Jokenpô (pedra, papel e tesoura)
+Jokenpô (pedra, papel e tesoura) 🪨🧻✂️
 ================================
 
 ## Instalação
