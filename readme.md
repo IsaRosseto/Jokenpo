@@ -33,3 +33,5 @@ Teste
 Crie um fork deste projeto no seu github e desenvolva o código em **javascript (para ser executado via node.js)** que simule 2 pessoas jogando jokenpô. Esse código deve receber 2 entradas que correspondem aos símbolos jogados pelos jogadores (pedra, papel ou tesoura) e devolver o resultado do jogo como saída.
 
 Ao finalizar a solução não esqueça de enviar um pull request!
+
+## S
