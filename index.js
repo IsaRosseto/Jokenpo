@@ -18,3 +18,6 @@ Promise.resolve()
     .then(console.log)
     .catch(e => console.log(e.message))
     .then(process.exit)
+
+
+/* GitHub@IsaRosseto */ 
