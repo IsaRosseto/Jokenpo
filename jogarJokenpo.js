@@ -17,3 +17,6 @@ module.exports = ([p1, p2]) => {
 
   return winner;
 }
+
+
+/* GitHub@IsaRosseto */ 
